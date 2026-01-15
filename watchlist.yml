@@ -1,0 +1,24 @@
+queries:
+  - "react"
+  - "react-dom"
+  - "next.js"
+  - "vite"
+  - "webpack"
+  - "babel"
+  - "npm"
+  - "node.js"
+
+tag_rules:
+  react:
+    - "react"
+    - "react-dom"
+  next:
+    - "next.js"
+  tooling:
+    - "vite"
+    - "webpack"
+    - "babel"
+  node:
+    - "node"
+    - "node.js"
+    - "npm"
